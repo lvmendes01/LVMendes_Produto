@@ -3,3 +3,9 @@
 ################################################################################
 
 /Lvmendes.Produto.ApiCLientes/obj
+/Lvmendes.Produto.ApiCLientes/bin/Debug/net6.0
+/Lvmendes.Produto.Entidade/bin/Debug/net6.0
+/Lvmendes.Produto.Repositorio/bin/Debug/net6.0
+/Lvmendes.Produto.Repositorio/obj
+/Lvmendes.Produto.Servico/bin/Debug/net6.0
+/Lvmendes.Produto.Servico/obj
