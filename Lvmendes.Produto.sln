@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lvmendes.Produtos.ApiCLientes", "Lvmendes.Produto.ApiCLientes\Lvmendes.Produtos.ApiCLientes.csproj", "{4918BC3B-2DC4-45CE-B3F7-D69BF5D87B25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lvmendes.Produtos.ApiProdutos", "Lvmendes.Produto.ApiCLientes\Lvmendes.Produtos.ApiProdutos.csproj", "{4918BC3B-2DC4-45CE-B3F7-D69BF5D87B25}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lvmendes.Produtos.Repositorio", "Lvmendes.Produto.Repositorio\Lvmendes.Produtos.Repositorio.csproj", "{790DC0BE-F450-4928-8207-10F3F11F7590}"
 EndProject
